@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.active{
+    color: rgb(196, 31, 146);
+}
+
+.link{
+    color: rgb(54, 54, 168);
+}
